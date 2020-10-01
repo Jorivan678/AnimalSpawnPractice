@@ -1,0 +1,14 @@
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.deps.json
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.dll
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.pdb
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csprojAssemblyReference.cache
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.AssemblyInfoInputs.cache
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.AssemblyInfo.cs
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.csproj.CopyComplete
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.dll
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.pdb
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.runtimeconfig.json
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\bin\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.runtimeconfig.dev.json
+D:\Proyectos\AnimalSpawn\AnimalSpawn.Infraestructure\obj\Debug\netcoreapp3.1\AnimalSpawn.Infraestructure.genruntimeconfig.cache
